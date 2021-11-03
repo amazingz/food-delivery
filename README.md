@@ -1,3 +1,3 @@
-# web-platform-y6tgtg
+# food=delivery
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-y6tgtg)
+[Food delivery ⚡️]
