@@ -1,3 +1,3 @@
-# food=delivery
+# food-delivery
 
 [Food delivery ⚡️]
